@@ -1,15 +1,12 @@
 # linkup
 
-A new Flutter project.
+Linkup is a social media Application that allow users interact with each other by sharing photos.
 
-## Getting Started
+![Screenshot_20221007-053115](https://user-images.githubusercontent.com/49396765/194525622-5250e980-b233-4ec5-9428-e95406019abf.png)
+![Screenshot_20221007-053156](https://user-images.githubusercontent.com/49396765/194525671-2c2df3fa-eaba-4ce9-b094-23a7c027e2c2.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The Frontend was developed with flutter.
+The backend was developed with firebase.
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
