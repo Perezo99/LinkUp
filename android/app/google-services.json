@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3238665751",
+    "project_id": "soci-c49fd",
+    "storage_bucket": "soci-c49fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3238665751:android:caa051e09a7a0a69998652",
+        "android_client_info": {
+          "package_name": "com.example.linkup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3238665751-2hnlelk2bqghblcod04c5v7tkeiifpvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKSYYxB2E9Lz6riqGlzK7sKh0VqEscBVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3238665751-2hnlelk2bqghblcod04c5v7tkeiifpvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
